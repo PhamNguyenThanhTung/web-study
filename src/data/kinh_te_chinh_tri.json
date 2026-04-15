@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "Hang hoa co hai thuoc tinh co ban nao?",
+    "options": [
+      "Gia tri su dung va gia tri",
+      "Gia tri va gia tri thang du",
+      "Tien te va lao dong",
+      "Cung va cau"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "Gia tri thang du trong CNTB duoc tao ra tu dau?",
+    "options": [
+      "Tu luu thong tien te",
+      "Tu lao dong khong duoc tra cong cua cong nhan",
+      "Tu tro cap nha nuoc",
+      "Tu thuong mai quoc te"
+    ],
+    "correct": 1
+  }
+]

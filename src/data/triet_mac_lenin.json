@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "Theo C.Mac, vat chat la gi?",
+    "options": [
+      "Thuc tai khach quan ton tai doc lap voi y thuc",
+      "Tong hop moi cam giac cua con nguoi",
+      "Y niem tuyet doi",
+      "Nang luong tinh than"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "Phep bien chung duy vat khang dinh dieu gi?",
+    "options": [
+      "Su vat co dinh, khong bien doi",
+      "Moi su vat van dong va phat trien theo quy luat",
+      "Y thuc quyet dinh vat chat",
+      "Ton giao tao ra xa hoi"
+    ],
+    "correct": 1
+  }
+]

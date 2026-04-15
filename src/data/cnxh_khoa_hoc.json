@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "Muc tieu cuoi cung cua CNXH khoa hoc la gi?",
+    "options": [
+      "Xoa bo bat binh dang xa hoi, giai phong con nguoi",
+      "Tang truong kinh te bang moi gia",
+      "Duy tri so huu tu nhan tu lieu san xuat",
+      "Tap trung quyen luc vao mot nhom nho"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "Luc luong xa hoi nao la dong luc chu yeu cua cach mang xa hoi chu nghia?",
+    "options": [
+      "Giai cap cong nhan lien minh voi nhan dan lao dong",
+      "Tu san cong nghiep",
+      "Dia chu phong kien",
+      "Thuong nhan tu do"
+    ],
+    "correct": 0
+  }
+]
